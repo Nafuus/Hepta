@@ -275,7 +275,9 @@ footer {
 
 
 @media screen and (max-width: 1050px) {
-
+    .intro {
+        margin: 170px auto;
+    }
     .title_intro { 
         font-size: 60px;
     }
